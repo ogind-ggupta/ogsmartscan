@@ -1,2 +1,2 @@
-# ogsmartscan
-ogsmartscan hackathon - P2P
+ogsmartscan
+ogsmartscan hackathon - P2P Ganesh
