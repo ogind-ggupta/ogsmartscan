@@ -1,2 +1,2 @@
 # ogsmartscan
-ogsmartscan hackathon
+ogsmartscan hackathon - P2P
